@@ -156,7 +156,7 @@ void main()
                 verifyChain();
                 break;
             case 5:
-                printf("FINALLY DONE!  \n **All your choices were accepted. Thankyou for your patience** \n\n -KASHISH SRIVASTAVA\n R134218079\n 500067405 \n CSF-B2\n");
+                printf("FINALLY DONE!  \n **All your choices were accepted. Thankyou for your patience** \n\n -KASHISH SRIVASTAVA\n CSF B2\n");
                 exit(1);
             default:
                 printf("Wrong choice !\nPlease try again\n");
