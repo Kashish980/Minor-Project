@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
-#include <openssl/sha.h>
+#include <openssl/sha.h> //shaheader
 #include <openssl/crypto.h>
 #define SHA256_DIGEST_LENGTH 32
 
